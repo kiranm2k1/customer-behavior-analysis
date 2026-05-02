@@ -1,4 +1,6 @@
-# 🛍️ Customer Behavior Analysis ## 📌 Project Overview An end-to-end data analytics project analyzing customer shopping behavior using Python, MySQL and Power BI. 
+# 🛍️ Customer Behavior Analysis 
+
+## 📌 Project Overview An end-to-end data analytics project analyzing customer shopping behavior using Python, MySQL and Power BI. 
 
 ## 🛠️ Tools Used - **Python & Pandas** — Data cleaning & EDA - **MySQL** — Data storage & business queries - **Power BI** — Interactive dashboard 
 
